@@ -13,4 +13,8 @@
   .media-item{
    left: 50px; 
   }
+  
+  #player{
+   width: 100% !important; 
+  }
 }
