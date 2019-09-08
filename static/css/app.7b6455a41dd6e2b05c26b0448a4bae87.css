@@ -7,7 +7,7 @@
    display: none; 
   }
   main{
-   width: 100%; 
+   width: 100% !important; 
   }
   
   .media-item{
