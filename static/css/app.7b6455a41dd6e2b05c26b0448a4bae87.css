@@ -21,4 +21,8 @@
   #player>div[data-player]{
     width: 100% !important; 
   }
+  
+  .player-width{
+    width: 100% !important; 
+  }
 }
