@@ -17,4 +17,8 @@
   #player{
    width: 100% !important; 
   }
+  
+  #player>div[data-player]{
+    width: 100% !important; 
+  }
 }
