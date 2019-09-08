@@ -28,13 +28,11 @@
   
   .search-bar{
         position: absolute;
-        left: -37px;
+        left: -79px;
   }
   
   .search-btn{
-    left: -126px !important;
-    top: 9px;
-    position: absolute;
+    display: none;
   }
 }
 
