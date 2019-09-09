@@ -43,6 +43,14 @@
   .search-btn{
     display: none;
   }
+  
+  video{
+         transform: translateY(-45%) scale(3)
+  }
+  
+  .container-width{
+  width: 100% !important;
+  }
 }
 
 .counter{
