@@ -45,12 +45,19 @@
   }
   
   video{
-         transform: translateY(-45%) scale(3)
+         transform: translateY(-45%) scale(3) !important;
   }
   
   .container-width{
   width: 100% !important;
   }
+  
+  .info-container .w-20{
+    width: 58% !important;
+    left: 30% !important;
+    position: relative !important; 
+  }
+  
 }
 
 .counter{
